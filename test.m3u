@@ -2,8 +2,16 @@
 #EXTINF:-1,now
 http://livetv.dnsfor.me/channel.3.m3u8
 #EXTINF:-2,now2
-http://ewcdnsite09.nowe.com/session/09-9a2c6cd7d4381c20d5d0b1fee9d3f/Content/HLS/LIVE/Channel(HLS_CH332N)/Stream(03)/index.m3u8
+https://ewcdnsite01.nowe.com/session/09-895e60099b86702edce2be6d62aa7/Content/HLS/LIVE/Channel(HLS_CH332N)/Stream(02)/index.m3u8
 #EXTINF:-3,now Prime
 http://ewcdnsite09.nowe.com/session/09-27079209011aad1cc98432a041fd1/Content/HLS/LIVE/Channel(HLS_CH630)/Stream(04)/index.m3u8
-#EXTINF:-3,cable
+#EXTINF:-4,cable
 http://61.10.2.150/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-5,日本電視台
+https://ntv2.mov3.co/hls/ntv.m3u8
+#EXTINF:-6,TBS
+https://tbs1.mov3.co/hls/tbs.m3u8
+#EXTINF:-7,Main
+http://main1.mov3.co/hls/main.m3u8
+#EXTINF:-8,NTV new 24
+https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
