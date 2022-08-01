@@ -2,4 +2,8 @@
 #EXTINF:-1,now
 http://livetv.dnsfor.me/channel.3.m3u8
 #EXTINF:-2,now2
-http://livetv.dnsfor.me/channel.4.m3u8 
+http://ewcdnsite09.nowe.com/session/09-9a2c6cd7d4381c20d5d0b1fee9d3f/Content/HLS/LIVE/Channel(HLS_CH332N)/Stream(03)/index.m3u8
+#EXTINF:-3,now Prime
+http://ewcdnsite09.nowe.com/session/09-27079209011aad1cc98432a041fd1/Content/HLS/LIVE/Channel(HLS_CH630)/Stream(04)/index.m3u8
+#EXTINF:-3,cable
+http://61.10.2.150/live_freedirect/freehd209_h.live/playlist.m3u8
