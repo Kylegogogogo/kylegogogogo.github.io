@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,now
+http://livetv.dnsfor.me/channel.3.m3u8
+#EXTINF:-2,now2
+http://livetv.dnsfor.me/channel.4.m3u8 
