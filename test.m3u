@@ -15,3 +15,5 @@ https://tbs1.mov3.co/hls/tbs.m3u8
 http://main1.mov3.co/hls/main.m3u8
 #EXTINF:-8,NTV new 24
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+#EXTINF:-9,NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_high2_s.m3u8
