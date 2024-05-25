@@ -27,3 +27,5 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-14,ITV1 Sport (VPN)
 https://csm-e-ces1aeuw1live102-0ab67b6d68933d515.tls1.yospace.com/csm/live/139900483.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3&ref=a1c9d4c18ab942e779c3b0fb86ebf4fdbcf81cad3cfc56b066c275621098fc84&s=web-stv1-west&yo.so=0&yo.po=2&yo.pm=true&ru=https%3A%2F%2Fplayer.stv.tv%2Flive%2F&yo.oh=Y3NtLWUtc3R2LWViLnRsczEueW9zcGFjZS5jb20=
+#EXTINF:-15,BBC 1HD 2nd (VPN)
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
